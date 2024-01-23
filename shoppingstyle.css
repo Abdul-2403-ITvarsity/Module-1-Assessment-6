@@ -1,0 +1,118 @@
+#menu-bar{
+    
+    width: 100%;
+    background-color: rgb(5, 5, 5);
+    margin-top: -1%;
+    padding-bottom: 10px;
+    box-shadow:blue 3px 3px 4px;
+    
+}
+ 
+ #menu-bar img{
+    background: none;
+    margin-bottom: -1%;
+    padding-top: -8%;
+    padding-bottom:-15%;
+    width: 5%;
+}
+
+
+#menu-bar a{
+    color: aliceblue;
+    font-family: Helvetica;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 5%;
+    padding-left: 20px;
+    padding-right: 5%;
+    width: 50%;
+    display:inline;
+}
+
+#menu-bar a:hover{
+    color: rgb(56, 66, 255);
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+h2{
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+h4{
+    font-family: Helvetica,sans-serif;
+    font-size: 30px;
+}
+p{
+    font-family: sans-serif;
+}
+
+.gallery img{
+    padding-top: 5px;
+    width: 50%;
+}
+
+.gallery {
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+
+.btn {
+    border-radius: 40px;
+    border: 0;
+    font-size: 1,8rem;
+    font-weight: 600;
+    margin: 20px 50px;
+    
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 100px;
+    height: 50px;
+}
+    
+.btn--outline {
+    
+    background: #171919;
+    border: 2px solid grey;  
+    color: white;
+      
+}
+.btn--outline:hover{
+    background-color: darkgray;  
+    color: black;
+}
+.layout img{
+    float: right;
+   
+    padding-top: 5px;
+    width: 50%;
+
+}
+table{
+    font-family: arial;
+    border: none;
+   
+}
+th{
+    background-color: rgb(194, 193, 193);
+    border: none;
+    padding: 20px 10px 20px 10px;
+
+}
+td{
+    background-color: rgb(215, 214, 214);
+    border: none;
+    padding: 6px 6px 6px 6px;
+
+}
+tr{
+    background-color: blue;
+
+}
